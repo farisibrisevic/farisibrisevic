@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faris Ibrišević</h1>
-<h3 align="center">Software engineering student</h3>
+<h3 align="center">Politehnički fakultet | Softversko Inženjerstvo</h3>
 
 - 📫 Kontakt: **faris.ibrisevic.22@size.ba**
 
