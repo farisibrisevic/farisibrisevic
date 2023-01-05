@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faris Ibrišević</h1>
 <h3 align="center"><a href="https://www.ptf.unze.ba/">Politehnički fakultet</a> | Softversko inženjerstvo</h3>
 
- 📫 Kontakt: **faris.ibrisevic.22@size.ba**
+📫 Kontakt: **faris.ibrisevic.22@size.ba**
 
 <h3 align="left">Društvene mreže:</h3>
 <p align="left">
