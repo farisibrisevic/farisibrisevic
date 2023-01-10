@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Faris Ibrišević</h1>
-<h3 align="center">SPolitehnički fakultet | Softversko inženjerstvo</h3>
+<h3 align="center">Politehnički fakultet | Softversko inženjerstvo</h3>
 
 
-- 📫 How to reach me **faris.ibrisevic.22@size.ba**
+- 📫 Kontakt: **faris.ibrisevic.22@size.ba**
 
 <h3 align="left">Društvene mreže:</h3>
 <p align="left">
